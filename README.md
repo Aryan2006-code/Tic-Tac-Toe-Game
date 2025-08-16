@@ -42,7 +42,7 @@ Play against a friend in the browser, with a clean design and winner/draw detect
 
 ## 🎥 Demo
 
-![Game video](screenshot.png)
+![Game video](demo.mp4)
 
 ## 🔮 Future Improvements
 
